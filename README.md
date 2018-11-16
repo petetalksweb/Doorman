@@ -31,7 +31,7 @@ So I decided to just automate that process with [Twilio](https://www.twilio.com/
 
 ![image](https://user-images.githubusercontent.com/3345162/48639311-d6a15c00-e998-11e8-9f5d-b1a01057821a.png)
 
-## What if I need to stop this immediately because: Michael Myers is on the loose, my room mate and I are trying to escape an angy mob, etc.
+## What if I need to stop this immediately because: Michael Myers is on the loose, my room mate and I are trying to escape an angy mob, etc.?
 
 Just delete the webhook from your Twilio console.
 
