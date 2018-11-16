@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+	<Sms to="MY_PHONE_NUMBER" from="MY_TWILIO_NUMBER">Someone is buzzing in.</Sms>
+	<Sms to="MY_ROOMMATES_PHONE_NUMBER" from="MY_TWILIO_NUMBER">Someone is buzzing in.</Sms>
+	<Pause length="1"/>
+	<Play digits="9"/>
+	<Pause length="1"/>
+	<Play digits="9"/>
+	<Pause length="1"/>
+	<Play digits="9"/>
+	<Pause length="1"/>
+	<Play digits="9"/>
+	<Pause length="1"/>
+	<Play digits="9"/>
+	<Pause length="1"/>
+	<Play digits="9"/>
+	<Pause length="1"/>
+	<Play digits="9"/>
+	<Pause length="1"/>
+	<Play digits="9"/>
+	<Pause length="1"/>
+	<Play digits="9"/>
+	<Pause length="1"/>
+	<Play digits="9"/>
+</Response>
